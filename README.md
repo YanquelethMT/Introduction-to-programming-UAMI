@@ -7,4 +7,5 @@ EN:
 SPA:
 
 •	Desarrollar habilidades de abstracción y modelado de problemas para su representación a través de algoritmos.
+
 •	Aplicar técnicas básicas de programación para el diseño y desarrollo de programas como solución a problemas.

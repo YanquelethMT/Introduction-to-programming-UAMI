@@ -7,7 +7,7 @@ By the end of the course, the student will be able to:
 • Develop skills in abstracting and modeling problems for their representation through algorithms.  
 • Apply basic programming techniques for the design and development of programs as solutions to problems.
 :paperclip:
-The course plan can be found at the following link. [planeacion] (Paneacion Introduccion a la programacion 2151063.pdf)
+The course plan can be found at the following link. [planeacion](Paneacion Introduccion a la programacion 2151063.pdf)
 
 SPA:
 

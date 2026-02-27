@@ -3,12 +3,12 @@
 EN:   
 
 Week 5 – Class 1: https://www.youtube.com/watch?v=A983qxWQRpc&t=114s    
-Week 5 – Class 2:    
+Week 5 – Class 2: https://www.youtube.com/watch?v=c6etB4xlEK0    
 
 
 
 SPA:   
 
 Semana 5 - clase 1: https://www.youtube.com/watch?v=A983qxWQRpc&t=114s    
-Semana 5 - clase 2:     
+Semana 5 - clase 2: https://www.youtube.com/watch?v=c6etB4xlEK0     
 

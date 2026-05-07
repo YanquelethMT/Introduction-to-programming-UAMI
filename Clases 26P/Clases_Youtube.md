@@ -7,3 +7,5 @@ Week 1 – Class 1 a - Algoritmos pseudocodigo: https://www.youtube.com/watch?v=
 Week 1 – Class 1 b - Algoritmos pseudocodigo: https://www.youtube.com/watch?v=BJqPzIsqv1w&t=29s     
 Week 1 – Class 2:
 
+
+

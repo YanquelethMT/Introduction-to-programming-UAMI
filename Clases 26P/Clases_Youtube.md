@@ -9,7 +9,7 @@ Week 2 – Class 2 - Estructura de control - estructura iterativa: https://www.y
 Week 2 – Class 3 - Estructura de iteración, Diagramas de flujo: https://www.youtube.com/watch?v=_IaqnIDsvnI   
 Week 3 – Class 4 - Estructura de iteración para, diagramas de flujo, Si anidado: https://youtu.be/UJJD2bg67zA       
 Week 4 – Class 5 - Repaso, variables en memoria, ciclos iterativos: https://www.youtube.com/watch?v=2maJ8C9uiQ8   
-Week 3 – Class 4 -:       
+Week 3 – Class 6 - Clase 6 - do while, arreglos: https://www.youtube.com/watch?v=SndXIna4JFs         
 Week 3 – Class 4 -:     
 Week 3 – Class 4 -:      
 Week 3 – Class 4 -:      
